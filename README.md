@@ -1,5 +1,5 @@
 # Il Post - Headline Web Scraper
 
-Simple web scraping script of the online newspaper Il Post
+Web scraping script of the Italian online newspaper Il Post to create a wordcloud picture.
 
 ![WC](Italy_wc.png "Italy's World Cloud")
